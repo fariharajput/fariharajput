@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Fariha Rajput
+### Hey, I'm  Fariha Rajput!👋,
 #### Full Stack Web Developer | Aspiring Software Developer 👾 | Open Source Contributor 🔥 | Motivational Speaker🎙 | Technology Writer ✍️| Passionate About Coding
 ![Full Stack Web Developer | Aspiring Software Developer 👾 | Open Source Contributor 🔥 | Motivational Speaker🎙 | Technology Writer ✍️| Passionate About Coding](https://fariharajput.github.io/github-profile-readme-generator/images/banner.png)
 
